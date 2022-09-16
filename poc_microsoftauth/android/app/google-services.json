@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783095611032",
+    "project_id": "poc-auth-1bb70",
+    "storage_bucket": "poc-auth-1bb70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783095611032:android:8d919e6e13c4c43e429aed",
+        "android_client_info": {
+          "package_name": "com.example.poc_microsoftauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783095611032-dpnrlndfhf6qko9fjiirq0phab3aq3mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poc_microsoftauth",
+            "certificate_hash": "8c9ae32fcb3a4b8c96b978678b613392e5289621"
+          }
+        },
+        {
+          "client_id": "783095611032-74fe1md5klgbrb269infqoo5759n815v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIAdLIZI7xBroba1Axzvw3GnOItdGZ7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783095611032-74fe1md5klgbrb269infqoo5759n815v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
